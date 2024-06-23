@@ -8,23 +8,24 @@ public class Lab261 {
     //100 -Group these test case
     //smoke sanity
     // Before , After we can do sometime
-@Description("TC#1 - Verify GET 261 Request 1 ")
+    @Description("TC#1 - Verify GET 261 Request 1 ")
     @Test
-    public void getRequest(){
-      RestAssured
-        .given()
+    public void getRequest() {
+        RestAssured
+                .given()
                 .baseUri("https://restful-booker.herokuapp.com")
                 .basePath("/ping")
-                .when().get().then().statusCode( 201);
-}
+                .when().get().then().statusCode(201);
+    }
+
     @Description("TC#1 - Verify GET 261 Request 2 ")
     @Test
-    public void getRequest2(){
-      RestAssured
-        .given()
+    public void getRequest2() {
+        RestAssured
+                .given()
                 .baseUri("https://restful-booker.herokuapp.com")
                 .basePath("/ping")
                 .when().get()
-              .then().statusCode( 201);
+                .then().statusCode(201);
     }
 }

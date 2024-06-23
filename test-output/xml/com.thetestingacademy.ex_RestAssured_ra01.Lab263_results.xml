@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredLearing"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.002">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest"
+                time="0.002"
+                classname="com.thetestingacademy.ex_RestAssured_ra01.Lab263">
+            </testcase>
+</testsuite>

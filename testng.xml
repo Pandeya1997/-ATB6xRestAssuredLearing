@@ -3,8 +3,8 @@
 <suite name="Rest Full booker API Test suite">
     <test verbose="2" preserve-order="true" name="C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing">
         <classes>
-            <class name="Testng1.Lab261">     </class>
-            <class name="Testng1.Lab262">     </class>
+            <class name="Testng1.Lab262"></class>
+            <class name="Testng1.Lab261"></class>
         </classes>
     </test>
 </suite>

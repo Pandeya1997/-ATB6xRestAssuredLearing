@@ -1,0 +1,1 @@
+{"uuid":"4f48f11e-18f6-4af1-a521-ab29af277773","name":"ATB6xRestAssuredLearing","children":["b09a4143-d2cf-4297-9e94-aaccc6d02c12"],"befores":[{"name":"getTokenAndBookingId","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719145539638,"stop":1719145539642}],"afters":[],"start":1719145539621,"stop":1719145539748}

@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true" name="C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing">
         <classes>
 
-            <class name="Testng1.Lab262">    </class>
+            <class name="Testng1.Lab262"></class>
         </classes>
     </test>
 </suite>

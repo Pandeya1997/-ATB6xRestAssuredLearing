@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.372">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest"
+                time="2.999"
+                classname="Testng1.Lab261">
+            </testcase>
+            <testcase
+                name="getRequest2"
+                time="1.373"
+                classname="Testng1.Lab261">
+            </testcase>
+</testsuite>
