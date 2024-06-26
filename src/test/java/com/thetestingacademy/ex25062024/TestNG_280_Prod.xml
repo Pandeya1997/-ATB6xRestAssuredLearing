@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest full booker API Testing ">
+    <test verbose="2" preserve-order="true" name="C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing">
+        <groups>
+            <run>
+                <include name="prod"></include>
+            </run>
+        </groups>
+
+
+        <classes>
+            <class name="com.thetestingacademy.ex25062024.Lab280"></class>
+        </classes>
+    </test>
+</suite>

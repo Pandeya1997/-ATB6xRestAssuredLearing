@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.756">
+           time="2.717">
     <properties></properties>
 
 
 
             <testcase
                 name="testPUTRequestPositive"
-                time="1.756"
+                time="2.717"
                 classname="com.thetestingacademy.ex22062024.CRUD.Full.Lab277">
             </testcase>
 </testsuite>

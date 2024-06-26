@@ -1,5 +1,6 @@
 package com.thetestingacademy.ex22062024.CRUD.Full;
 
+import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
@@ -78,7 +79,7 @@ public class Lab277 {
         Assert.assertNotNull(bookingId);
 
     }
-
+    @Description("TC#2 ")
     @Test
     public void testPUTRequestPositive() {
         // token and bookingID
