@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured_learing"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.139">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getBookingID"
+                time="0.004"
+                classname="com.thetestingacademy.ex_Rest_26_06_2024.Lab283">
+            </testcase>
+            <testcase
+                name="testPutReq"
+                time="0.004"
+                classname="com.thetestingacademy.ex_Rest_26_06_2024.Lab283">
+            </testcase>
+            <testcase
+                name="getToken"
+                time="0.131"
+                classname="com.thetestingacademy.ex_Rest_26_06_2024.Lab283">
+            </testcase>
+</testsuite>
