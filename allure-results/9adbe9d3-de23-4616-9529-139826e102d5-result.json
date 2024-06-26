@@ -1,1 +1,61 @@
-{"uuid":"9adbe9d3-de23-4616-9529-139826e102d5","historyId":"7fd2515ea3301d8c816653e9cdbf913e","fullName":"Testng1.Lab266.testCase1","labels":[{"name":"package","value":"Testng1.Lab266"},{"name":"testClass","value":"Testng1.Lab266"},{"name":"testMethod","value":"testCase1"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB6xRestAssuredLearing"},{"name":"subSuite","value":"Testng1.Lab266"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"27868@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"testCase1","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719144389368,"stop":1719144389377}
+{
+  "uuid": "9adbe9d3-de23-4616-9529-139826e102d5",
+  "historyId": "7fd2515ea3301d8c816653e9cdbf913e",
+  "fullName": "Testng1.Lab266.testCase1",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Testng1.Lab266"
+    },
+    {
+      "name": "testClass",
+      "value": "Testng1.Lab266"
+    },
+    {
+      "name": "testMethod",
+      "value": "testCase1"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "Testng1.Lab266"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "27868@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testCase1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719144389368,
+  "stop": 1719144389377
+}

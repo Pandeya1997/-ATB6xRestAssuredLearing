@@ -1,0 +1,11 @@
+{
+  "uuid": "7e96ba28-0bfb-4777-8845-bfef065edd05",
+  "name": "com.thetestingacademy.ex22062024.CRUD.GET.NonBDDStyle.Lab270",
+  "children": [
+    "bd459847-e219-4f53-a4e9-d7d5cb2163f1"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1719198258467,
+  "stop": 1719198261328
+}

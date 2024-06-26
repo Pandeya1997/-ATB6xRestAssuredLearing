@@ -1,1 +1,62 @@
-{"uuid":"ec515444-67e4-4d3a-a633-15bfc312add0","historyId":"6084eab8ea7e7e13c408d4b7c2e1ba69","fullName":"com.thetestingacademy.ex_RestAssured_ra01.Lab263.getRequest","labels":[{"name":"package","value":"com.thetestingacademy.ex_RestAssured_ra01.Lab263"},{"name":"testClass","value":"com.thetestingacademy.ex_RestAssured_ra01.Lab263"},{"name":"testMethod","value":"getRequest"},{"name":"parentSuite","value":"Abhishek Project "},{"name":"suite","value":"RestAssuredLearing"},{"name":"subSuite","value":"com.thetestingacademy.ex_RestAssured_ra01.Lab263"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"35828@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"getRequest","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"TC#1 - Verify Get Request1","steps":[],"attachments":[],"parameters":[],"start":1719137670604,"stop":1719137670605}
+{
+  "uuid": "ec515444-67e4-4d3a-a633-15bfc312add0",
+  "historyId": "6084eab8ea7e7e13c408d4b7c2e1ba69",
+  "fullName": "com.thetestingacademy.ex_RestAssured_ra01.Lab263.getRequest",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacademy.ex_RestAssured_ra01.Lab263"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacademy.ex_RestAssured_ra01.Lab263"
+    },
+    {
+      "name": "testMethod",
+      "value": "getRequest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Abhishek Project "
+    },
+    {
+      "name": "suite",
+      "value": "RestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacademy.ex_RestAssured_ra01.Lab263"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "35828@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "getRequest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#1 - Verify Get Request1",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719137670604,
+  "stop": 1719137670605
+}

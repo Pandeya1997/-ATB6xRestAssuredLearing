@@ -9,33 +9,35 @@ public class Lab267 {
     // put --> id, token
     // Delete --> id
     // Get ---> ID -- Verify it should not exist
-    String token ;
+    String token;
     Integer bookingId;
+
     public String getToken() {
         token = "123";
         return token;
     }
+
     @BeforeTest
-   public void getTokenAndBookingId() {
+    public void getTokenAndBookingId() {
         token = getToken();
-      //  post Req -
+        //  post Req -
         // Post code
         bookingId = 123;
     }
+
     @Test
     public void testPUTReq() {
         System.out.println(token);
         System.out.println(bookingId);
         // PUT Req
     }
+
     @Test
     public void testPUTR() {
         System.out.println(token);
         System.out.println(bookingId);
         // Delete  Req
     }
-
-
 
 
 }

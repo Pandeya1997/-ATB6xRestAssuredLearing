@@ -1,1 +1,62 @@
-{"uuid":"a314636f-7705-4c3f-a3d7-360b9b819931","historyId":"a70b644cd6c510ad878d123758f9913b","fullName":"Testng1.Lab265.testcase","labels":[{"name":"package","value":"Testng1.Lab265"},{"name":"testClass","value":"Testng1.Lab265"},{"name":"testMethod","value":"testcase"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB6xRestAssuredLearing"},{"name":"subSuite","value":"Testng1.Lab265"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"36692@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"testcase","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"TC#01","steps":[],"attachments":[],"parameters":[],"start":1719143577939,"stop":1719143577950}
+{
+  "uuid": "a314636f-7705-4c3f-a3d7-360b9b819931",
+  "historyId": "a70b644cd6c510ad878d123758f9913b",
+  "fullName": "Testng1.Lab265.testcase",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Testng1.Lab265"
+    },
+    {
+      "name": "testClass",
+      "value": "Testng1.Lab265"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "Testng1.Lab265"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "36692@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testcase",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#01",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719143577939,
+  "stop": 1719143577950
+}

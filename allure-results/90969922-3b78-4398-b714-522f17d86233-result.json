@@ -1,0 +1,61 @@
+{
+  "uuid": "90969922-3b78-4398-b714-522f17d86233",
+  "historyId": "768b48d7045e4e83907c31f69cdb6796",
+  "fullName": "com.thetestingacademy.ex22062024.CRUD.GET.BDDStyle.Lab269.getRequestBDDStyle",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacademy.ex22062024.CRUD.GET.BDDStyle.Lab269"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacademy.ex22062024.CRUD.GET.BDDStyle.Lab269"
+    },
+    {
+      "name": "testMethod",
+      "value": "getRequestBDDStyle"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacademy.ex22062024.CRUD.GET.BDDStyle.Lab269"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "36596@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "getRequestBDDStyle",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719198108435,
+  "stop": 1719198111165
+}

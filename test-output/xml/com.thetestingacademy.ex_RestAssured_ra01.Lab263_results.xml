@@ -8,10 +8,9 @@
     <properties></properties>
 
 
-
-            <testcase
-                name="getRequest"
-                time="0.002"
-                classname="com.thetestingacademy.ex_RestAssured_ra01.Lab263">
-            </testcase>
+    <testcase
+            name="getRequest"
+            time="0.002"
+            classname="com.thetestingacademy.ex_RestAssured_ra01.Lab263">
+    </testcase>
 </testsuite>

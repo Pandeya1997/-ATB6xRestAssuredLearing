@@ -1,0 +1,61 @@
+{
+  "uuid": "422d29aa-8f62-44a3-95c0-2a63744d0da5",
+  "historyId": "673899729da77bbaa2b2bc6c8cc89cc5",
+  "fullName": "com.thetestingacademy.ex22062024.CRUD.POST.BDDStyle.Lab272.TestBDDStylePostPositive",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacademy.ex22062024.CRUD.POST.BDDStyle.Lab272"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacademy.ex22062024.CRUD.POST.BDDStyle.Lab272"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestBDDStylePostPositive"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacademy.ex22062024.CRUD.POST.BDDStyle.Lab272"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "13800@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "TestBDDStylePostPositive",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719223232223,
+  "stop": 1719223235561
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearing"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.756">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPUTRequestPositive"
+                time="1.756"
+                classname="com.thetestingacademy.ex22062024.CRUD.Full.Lab277">
+            </testcase>
+</testsuite>

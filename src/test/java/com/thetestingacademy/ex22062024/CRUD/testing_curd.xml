@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Restfull booker CURD ">
+    <test verbose="2" preserve-order="true" name=" CURD All Test ">
+<!--        <classes>-->
+<!--            <class name="com.thetestingacademy.ex22062024.CRUD.GET.NonBDDStyle.Lab270"></class>-->
+<!--            <class name="com.thetestingacademy.ex22062024.CRUD.GET.NonBDDStyle.Lab270"></class>-->
+<!--            <class name="com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273"></class>-->
+<!--            <class name="com.thetestingacademy.ex22062024.CRUD.PUT.NonBDDStyle.Lab274"></class>-->
+<!--            <class name="com.thetestingacademy.ex22062024.CRUD.PATCH.Lab275"></class>-->
+<!--            <class name="com.thetestingacademy.ex22062024.CRUD.DELETE.Lab276"></class>-->
+<!--        </classes>-->
+<packages>
+    <package name = "com\thetestingacademy\ex22062024\CRUD\*" ></package>
+</packages>
+
+    </test>
+</suite>

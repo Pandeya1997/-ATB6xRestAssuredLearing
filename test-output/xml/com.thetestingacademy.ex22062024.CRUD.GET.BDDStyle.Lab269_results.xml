@@ -4,14 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.897">
+           time="2.788">
     <properties></properties>
 
 
-
-            <testcase
-                name="getRequestBDDStyle"
-                time="1.897"
-                classname="com.thetestingacademy.ex22062024.CRUD.GET.BDDStyle.Lab269">
-            </testcase>
+    <testcase
+            name="getRequestBDDStyle"
+            time="2.788"
+            classname="com.thetestingacademy.ex22062024.CRUD.GET.BDDStyle.Lab269">
+    </testcase>
 </testsuite>

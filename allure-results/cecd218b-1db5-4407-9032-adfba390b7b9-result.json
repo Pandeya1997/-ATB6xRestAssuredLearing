@@ -1,1 +1,62 @@
-{"uuid":"cecd218b-1db5-4407-9032-adfba390b7b9","historyId":"45cb3acdb151bc4b4c5a20e574246f32","fullName":"Testng1.Lab262.getRequest","labels":[{"name":"package","value":"Testng1.Lab262"},{"name":"testClass","value":"Testng1.Lab262"},{"name":"testMethod","value":"getRequest"},{"name":"parentSuite","value":"Abhishek Project "},{"name":"suite","value":"RestAssuredLearing"},{"name":"subSuite","value":"Testng1.Lab262"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"35828@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"getRequest","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"TC#1 - Verify Get Request1","steps":[],"attachments":[],"parameters":[],"start":1719137670532,"stop":1719137670540}
+{
+  "uuid": "cecd218b-1db5-4407-9032-adfba390b7b9",
+  "historyId": "45cb3acdb151bc4b4c5a20e574246f32",
+  "fullName": "Testng1.Lab262.getRequest",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "testClass",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "testMethod",
+      "value": "getRequest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Abhishek Project "
+    },
+    {
+      "name": "suite",
+      "value": "RestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "35828@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "getRequest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#1 - Verify Get Request1",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719137670532,
+  "stop": 1719137670540
+}

@@ -8,15 +8,14 @@
     <properties></properties>
 
 
-
-            <testcase
-                name="getRequest3"
-                time="0.003"
-                classname="Testng1.Lab262">
-            </testcase>
-            <testcase
-                name="getRequest"
-                time="0.056"
-                classname="Testng1.Lab262">
-            </testcase>
+    <testcase
+            name="getRequest3"
+            time="0.003"
+            classname="Testng1.Lab262">
+    </testcase>
+    <testcase
+            name="getRequest"
+            time="0.056"
+            classname="Testng1.Lab262">
+    </testcase>
 </testsuite>

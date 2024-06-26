@@ -1,1 +1,62 @@
-{"uuid":"5e777678-d64e-4de6-b623-64ea7b98ef32","historyId":"8102a1b792c2c8bf63ab469ba393af5","fullName":"Testng1.Lab261.getRequest","labels":[{"name":"package","value":"Testng1.Lab261"},{"name":"testClass","value":"Testng1.Lab261"},{"name":"testMethod","value":"getRequest"},{"name":"parentSuite","value":"Rest Full booker API Test suite"},{"name":"suite","value":"C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing"},{"name":"subSuite","value":"Testng1.Lab261"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"20816@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"getRequest","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"TC#1 - Verify GET 261 Request 1 ","steps":[],"attachments":[],"parameters":[],"start":1719076573175,"stop":1719076576288}
+{
+  "uuid": "5e777678-d64e-4de6-b623-64ea7b98ef32",
+  "historyId": "8102a1b792c2c8bf63ab469ba393af5",
+  "fullName": "Testng1.Lab261.getRequest",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Testng1.Lab261"
+    },
+    {
+      "name": "testClass",
+      "value": "Testng1.Lab261"
+    },
+    {
+      "name": "testMethod",
+      "value": "getRequest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Rest Full booker API Test suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "Testng1.Lab261"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "20816@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "getRequest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#1 - Verify GET 261 Request 1 ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719076573175,
+  "stop": 1719076576288
+}

@@ -17,7 +17,6 @@ public class Lab269 {
     // GET Method
 
 
-
     // Then()
     // Response Validation
     //  Status Code
@@ -25,7 +24,7 @@ public class Lab269 {
     //  Time, Headers ,Cookies
 
     @Test
-    public void getRequestBDDStyle(){
+    public void getRequestBDDStyle() {
         RestAssured
                 .given()
                 .baseUri("https://api.zippopotam.us")

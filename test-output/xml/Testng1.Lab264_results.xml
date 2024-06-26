@@ -8,10 +8,9 @@
     <properties></properties>
 
 
-
-            <testcase
-                name="demo5"
-                time="0.050"
-                classname="Testng1.Lab264">
-            </testcase>
+    <testcase
+            name="demo5"
+            time="0.050"
+            classname="Testng1.Lab264">
+    </testcase>
 </testsuite>

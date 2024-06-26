@@ -1,1 +1,62 @@
-{"uuid":"5a5867dc-ef44-4940-a0f6-794af75969ef","historyId":"cf651f0365a6029ebc94f1543bd8c973","fullName":"Testng1.Lab262.getRequest2","labels":[{"name":"package","value":"Testng1.Lab262"},{"name":"testClass","value":"Testng1.Lab262"},{"name":"testMethod","value":"getRequest2"},{"name":"parentSuite","value":"Abhishek Project "},{"name":"suite","value":"RestAssuredLearing"},{"name":"subSuite","value":"Testng1.Lab262"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"28064@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"getRequest2","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"TC#1 - Verify Get Request 2","steps":[],"attachments":[],"parameters":[],"start":1719136410059,"stop":1719136410060}
+{
+  "uuid": "5a5867dc-ef44-4940-a0f6-794af75969ef",
+  "historyId": "cf651f0365a6029ebc94f1543bd8c973",
+  "fullName": "Testng1.Lab262.getRequest2",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "testClass",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "testMethod",
+      "value": "getRequest2"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Abhishek Project "
+    },
+    {
+      "name": "suite",
+      "value": "RestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "28064@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "getRequest2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#1 - Verify Get Request 2",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719136410059,
+  "stop": 1719136410060
+}

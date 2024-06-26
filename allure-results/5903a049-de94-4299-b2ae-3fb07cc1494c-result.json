@@ -1,1 +1,62 @@
-{"uuid":"5903a049-de94-4299-b2ae-3fb07cc1494c","historyId":"cf651f0365a6029ebc94f1543bd8c973","fullName":"Testng1.Lab262.getRequest2","labels":[{"name":"package","value":"Testng1.Lab262"},{"name":"testClass","value":"Testng1.Lab262"},{"name":"testMethod","value":"getRequest2"},{"name":"parentSuite","value":"Rest Full booker API Test suite"},{"name":"suite","value":"C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing"},{"name":"subSuite","value":"Testng1.Lab262"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"31556@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"getRequest2","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"TC#1 - Verify Get Request 2","steps":[],"attachments":[],"parameters":[],"start":1719129060043,"stop":1719129060044}
+{
+  "uuid": "5903a049-de94-4299-b2ae-3fb07cc1494c",
+  "historyId": "cf651f0365a6029ebc94f1543bd8c973",
+  "fullName": "Testng1.Lab262.getRequest2",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "testClass",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "testMethod",
+      "value": "getRequest2"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Rest Full booker API Test suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:/Users/AARRSOL/IdeaProjects/ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "Testng1.Lab262"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "31556@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "getRequest2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#1 - Verify Get Request 2",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719129060043,
+  "stop": 1719129060044
+}

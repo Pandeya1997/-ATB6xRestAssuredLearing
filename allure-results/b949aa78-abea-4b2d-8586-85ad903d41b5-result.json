@@ -1,0 +1,62 @@
+{
+  "uuid": "b949aa78-abea-4b2d-8586-85ad903d41b5",
+  "historyId": "25c7d01ea6204a6c2960758e3c1e5bdd",
+  "fullName": "com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273.testNonBDDStylePOSTNegative",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273"
+    },
+    {
+      "name": "testMethod",
+      "value": "testNonBDDStylePOSTNegative"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB6xRestAssuredLearing"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "37820@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testNonBDDStylePOSTNegative",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "TC#2 - Verify that create booking not working, with 500 Error2",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1719228432121,
+  "stop": 1719228433720
+}
