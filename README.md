@@ -11,3 +11,6 @@ Rest Assured Notes
 2. [RA2.pdf](https://github.com/user-attachments/files/16017970/RA2.pdf)    [RA2.pdf](https://github.com/user-attachments/files/16017970/RA2.pdf)
 
 3. [RA3.pdf](https://github.com/user-attachments/files/16017973/RA3.pdf)    [RA3.pdf](https://github.com/user-attachments/files/16017973/RA3.pdf)
+Test Plan DOC
+[Test Plan - Template.docx](https://github.com/user-attachments/files/16018026/Test.Plan.-.Template.docx)
+
