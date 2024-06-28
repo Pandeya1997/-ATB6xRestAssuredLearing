@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredLearing"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.813">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestNonDDStylePostPositive"
+                time="2.813"
+                classname="com.thetestingacademy.ex_27_06_2024.gson.jacksonapi.Lab291">
+            </testcase>
+</testsuite>

@@ -1,6 +1,7 @@
 package com.thetestingacademy.ex_27_06_2024;
 
 
+
 import com.github.javafaker.Faker;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -9,10 +10,9 @@ import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.TreeMap;
+
 
 public class Lab290 {
     // PayloadUsingMap
@@ -76,19 +76,6 @@ public class Lab290 {
         validatableResponse = response.then();
         validatableResponse.statusCode(200);
 
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
 
 }
