@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name=" CURD All Test "
-           tests="2"
+<testsuite name="ATB6xRestAssuredLearing"
+           tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="3.226">
+           time="2.496">
     <properties></properties>
 
 
 
             <testcase
-                name="testNonBDDStylePOSTNegative"
-                time="1.554"
-                classname="com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273">
-            </testcase>
-            <testcase
                 name="TestNonDDStylePostPositive"
-                time="1.672"
+                time="2.496"
                 classname="com.thetestingacademy.ex22062024.CRUD.POST.Non_BDDStyle.Lab273">
             </testcase>
 </testsuite>
