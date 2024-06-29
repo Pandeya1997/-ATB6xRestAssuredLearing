@@ -11,3 +11,4 @@ Rest Assured Notes
 Test Plan DOC
 [Test Plan - Template.docx](https://github.com/user-attachments/files/16018026/Test.Plan.-.Template.docx)
 
+Framework Components  ->> ![Framework components](https://github.com/Pandeya1997/ATB6xRestAssuredLearing/assets/94381353/0cce9610-05ed-4325-b891-27c4ee8f89b0)
