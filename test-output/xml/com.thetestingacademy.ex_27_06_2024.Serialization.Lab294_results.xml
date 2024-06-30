@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="ATB6xRestAssuredLearing"
-           tests="1"
+           tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="3.670">
+           time="0.136">
     <properties></properties>
 
 
 
             <testcase
+                name="testNonBDDStylePOSTPositive1"
+                time="0.068"
+                classname="com.thetestingacademy.ex_27_06_2024.Gson.Serialization.Lab294">
+            </testcase>
+            <testcase
                 name="testNonBDDStylePOSTPositive"
-                time="3.670"
+                time="0.068"
                 classname="com.thetestingacademy.ex_27_06_2024.Gson.Serialization.Lab294">
             </testcase>
 </testsuite>

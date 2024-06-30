@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.670">
+           time="3.293">
     <properties></properties>
 
 
 
             <testcase
-                name="testNonBDDStylePOSTPositive"
-                time="3.670"
-                classname="com.thetestingacademy.ex_27_06_2024.Gson.Serialization.Lab294">
+                name="JSValidation"
+                time="3.293"
+                classname="com.thetestingacademy.ex_27_06_2024.Jsonshemavalidation.Lab297">
             </testcase>
 </testsuite>

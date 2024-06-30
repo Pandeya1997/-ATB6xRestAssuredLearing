@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.670">
+           time="0.238">
     <properties></properties>
 
 
 
             <testcase
-                name="testNonBDDStylePOSTPositive"
-                time="3.670"
-                classname="com.thetestingacademy.ex_27_06_2024.Gson.Serialization.Lab294">
+                name="DeSer"
+                time="0.238"
+                classname="com.thetestingacademy.ex_27_06_2024.jacksonapi.deser.Lab296">
             </testcase>
 </testsuite>

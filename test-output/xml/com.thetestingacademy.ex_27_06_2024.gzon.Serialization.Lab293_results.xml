@@ -12,6 +12,6 @@
             <testcase
                 name="testNonBDDStylePOSTPositive"
                 time="3.298"
-                classname="com.thetestingacademy.ex_27_06_2024.gzon.Serialization.Lab293">
+                classname="com.thetestingacademy.ex_27_06_2024.Gson.Serialization.Lab293">
             </testcase>
 </testsuite>

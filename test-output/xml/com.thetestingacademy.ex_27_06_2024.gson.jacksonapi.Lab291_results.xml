@@ -12,6 +12,6 @@
             <testcase
                 name="TestNonDDStylePostPositive"
                 time="2.813"
-                classname="com.thetestingacademy.ex_27_06_2024.gson.jacksonapi.Lab291">
+                classname="com.thetestingacademy.ex_27_06_2024.Gson.Lab291">
             </testcase>
 </testsuite>
