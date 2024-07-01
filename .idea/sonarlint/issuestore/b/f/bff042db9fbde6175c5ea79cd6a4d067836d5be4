@@ -1,0 +1,11 @@
+
+Ç
+java:S3577	"…Rename class "Lab295" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ùÖ­ÚÿÿÿÿÿJ$ad609cc1-89c8-492a-b67c-c94d5433172d
+y
+java:S1854"=Remove this useless assignment to local variable "BASE_PATH".(è¯ùJ$3eee9617-cebd-42d6-aadf-de75f11238df
+}
+java:S1854"<Remove this useless assignment to local variable "BASE_URL".(–÷Û³ÿÿÿÿÿJ$02e7c6af-e1fb-4f4e-8dc2-5e7d1b08dee5
+n
+java:S1481"-Remove this unused "BASE_URL" local variable.(–÷Û³ÿÿÿÿÿJ$519f9d28-fc6d-48d7-85f0-fbd7cdcc0564
+j
+java:S1481".Remove this unused "BASE_PATH" local variable.(è¯ùJ$4503d2d6-56f2-4ed6-92c5-3d68575b78a3

@@ -1,0 +1,21 @@
+
+Å
+Qsrc/test/java/com/thetestingacademy/ex22062024/CRUD/POST/Non_BDDStyle/Lab273.java,5\a\5ad8df9048a14b04c3c69b37014c55e1d1141270
+m
+=src/test/java/com/thetestingacademy/ex_27_06_2024/Lab289.java,a\1\a1d29e394dd736396193560746acb831548ba975
+j
+:src/test/java/com/thetestingacademy/ex_27_06_2024/DOC.java,c\7\c73c6d8b4153faa22034f34484dd81efbbf571b0
+y
+Isrc/test/java/com/thetestingacademy/ex_27_06_2024/payloadFile/Lab298.java,7\a\7a8cbac9826e6499ad0a4f5c4220faa78856dd29
+Å
+Qsrc/test/java/com/thetestingacademy/ex_27_06_2024/Jsonshemavalidation/Lab297.java,3\c\3ce00d97e6a4cfb19a9c383c93cc44d71ba41716
+|
+Lsrc/test/java/com/thetestingacademy/ex_27_06_2024/jacksonapi/ser/Lab295.java,b\f\bff042db9fbde6175c5ea79cd6a4d067836d5be4
+~
+Nsrc/test/java/com/thetestingacademy/ex_27_06_2024/jacksonapi/deser/Lab296.java,2\d\2d5962e9596fe7911bdb9440a05ebf21608d0bb2
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+l
+<src/test/java/com/thetestingacademy/ex29_06_2024/Lab299.java,b\6\b675444ee387d0357c0faffc0bbcb7d3fdf47075

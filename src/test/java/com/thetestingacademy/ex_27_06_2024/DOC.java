@@ -1,12 +1,11 @@
 package com.thetestingacademy.ex_27_06_2024;
 
+import org.testng.annotations.Test;
+
 public class DOC {
-    // Payload - String , Map
-    // Most Used - class & Objects,
-    // Swagger API - Document, File , IO, Binary File Payload
-// Non BDD - API Automation -
+    @Test
+    public void testPostRequest(){
 
-    // Cucumber BDD  - suite - Framework -. Cucumber BDD (Feature Files, Glue Other)
-
+    }
 
 }
